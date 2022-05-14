@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Palms455/callback-example)
 ![GitHub contributors](https://img.shields.io/github/contributors/Palms455/callback-example)
-
-# callback-example
-Пример Callback-сервиса на Golang
 <img align="right" width="50%" src="./images/gopher.png">
+# callback-example
+РџСЂРёРјРµСЂ Callback-СЃРµСЂРІРёСЃР° РЅР° Golang
+
